@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Musa Molefe - Photographer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h1>Musa Molefe</h1>
+        <p>Skilled Photographer specializing in visual storytelling.</p>
+        <p>My photography captures moments that tell powerful stories, evoking emotion and connection.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>My Projects</h2>
+        <div class="gallery">
+            <div class="photo">
+                <img src="photo1.jpg" alt="Project 1">
+                <p>Project 1: Visual Storytelling</p>
+            </div>
+            <div class="photo">
+                <img src="photo2.jpg" alt="Project 2">
+                <p>Project 2: Event Photography</p>
+            </div>
+            <div class="photo">
+                <img src="photo3.jpg" alt="Project 3">
+                <p>Project 3: Landscape Photography</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Phone: <a href="tel:0621631902">0621631902</a></p>
+        <p>Email: <a href="mailto:musamolefe24@gmail.com">musamolefe24@gmail.com</a></p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 Musa Molefe. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
